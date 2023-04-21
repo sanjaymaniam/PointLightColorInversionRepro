@@ -47,7 +47,7 @@
         </StackPanel>
 
         <StackPanel Grid.Row="2" HorizontalAlignment="Center">
-            <TextBlock x:Name="PointLightStatusTB" Text="Point Light ON" FontSize="14"/>
+            <TextBlock x:Name="PointLightStatusTB" Text="PointLight OFF- Line colours unchanged." FontSize="14"/>
         </StackPanel>
     </Grid>
 </Page>
